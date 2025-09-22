@@ -12,8 +12,8 @@ We propose an multi-experts framework named Echo, which comprises four expert mo
 
 
 ## 👨‍💻 Todo
-- [ ] Release the evaluation code
-- [ ] Release the paper
+- [x] Release the evaluation code
+- [x] Release the paper
 
 
 ## Acknowledgements ##
@@ -34,3 +34,12 @@ We would like to acknowledge the use of code snippets from various open-source l
 [InternVL](https://github.com/OpenGVLab/InternVL)
 
 
+## Citation
+```
+@article{chen2025can,
+  title={Can multimodal large language models be guided to improve industrial anomaly detection?},
+  author={Chen, Zhiling and Chen, Hanning and Imani, Mohsen and Imani, Farhad},
+  journal={arXiv preprint arXiv:2501.15795},
+  year={2025}
+}
+```
