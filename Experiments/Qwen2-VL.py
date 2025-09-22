@@ -29,7 +29,7 @@ CONFIG = {
     "reference_images": r"../Memory/reference_image_locations.txt",
     "annotation_file": r"../Annotation/DS-MVTec.json",
     "domain_knowledge": r"../Knowledge Guide/domain_knowledge_detection.json",
-    "results_csv": r"my_model_Qwen2-2b_MVTec.csv"
+    "results_csv": r"Results_Qwen2VL.csv"
 }
 
 

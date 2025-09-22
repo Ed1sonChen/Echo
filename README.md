@@ -11,6 +11,31 @@ We propose an multi-experts framework named Echo, which comprises four expert mo
 </p>
 
 
+
+## Environment Setup ##
+
+```bash
+# Create environment
+conda create -n echo python=3.12 -y
+conda activate echo
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+## Build Memory Index ##
+
+```bash
+python /Memory/build_memory.py
+```
+
+
+## Run Evaluation ##
+
+```bash
+Python /Experiemnts/Qwen2-VL.py
+```
+
 ## 👨‍💻 Todo
 - [x] Release the evaluation code
 - [x] Release the paper
